@@ -1,0 +1,3 @@
+On terminal:
+-composer require dompdf/dompdf
+
